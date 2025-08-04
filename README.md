@@ -27,7 +27,7 @@ I'm currently pursuing my Computer Science major at Pranveer Singh Institute of 
 ## 📫 How to reach me
 - **Email:** khush.karamchandani@example.com
 - **LinkedIn:** [Khush Karamchandani](https://linkedin.com/in/khushkaramchandani)
-- **GitHub:** [@khushkaramchandani](https://github.com/khushkaramchandani)
+- **Twitter:** [@khushdv](https://x.com/khushdv)
 
 ---
 
