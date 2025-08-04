@@ -17,3 +17,31 @@ I'm currently pursuing my Computer Science major at Pranveer Singh Institute of 
 ---
 
 ## 🌱 What I'm learning
+- Advanced JavaScript and React
+- Backend development with Node.js
+- Data structures and algorithms
+- System design principles
+
+---
+
+## 📫 How to reach me
+- **Email:** khush.karamchandani@example.com
+- **LinkedIn:** [Khush Karamchandani](https://linkedin.com/in/khushkaramchandani)
+- **GitHub:** [@khushkaramchandani](https://github.com/khushkaramchandani)
+
+---
+
+## ⚡ Fun Facts
+- 🎮 I love playing strategic video games
+- 📚 Always reading tech blogs and articles
+- 🎨 Enjoy creating minimalist designs
+- ☕ Coffee enthusiast who codes best with a good cup of coffee
+
+---
+
+### 📊 GitHub Stats
+![Khush's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushkaramchandani&show_icons=true&theme=radical)
+
+---
+
+*Thanks for visiting my profile! Feel free to connect with me.* 😊
