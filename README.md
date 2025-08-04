@@ -1,5 +1,8 @@
-<h1 style="font-family: 'Nexa Bold', sans-serif; font-weight: 700;">👋 Hi, I'm Khush Karamchandani</h1>
-<img align="right" src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/9001e5d4-35e1-407e-82e9-0e520aaf95de.png" width="200" alt="building and learning" />
+# 👋 Hi, I'm Khush Karamchandani
+
+<div align="right">
+  <img src="https://camo.githubusercontent.com/b92f82e0924c85c247b0f2972323415ef2052e234f61f588aa695f9bbf084329/68747470733a2f2f757365722d67656e2d6d656469612d6173736574732e73332e616d617a6f6e6177732e636f6d2f677074346f5f696d616765732f39303031653564342d333565312d343037652d383265392d3065353230616166393564652e706e67" width="200" alt="building and learning"/>
+</div>
 
 ### 🎓 CS Major @ PSIT Kanpur
 I'm currently pursuing my Computer Science major at Pranveer Singh Institute of Technology (PSIT), Kanpur.
