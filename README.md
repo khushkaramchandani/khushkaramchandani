@@ -1,4 +1,3 @@
-href="https://fonts.googleapis.com/css2?0f5fbd40" rel="stylesheet">
 
 <h1 style="font-family: 'Nexa Bold', sans-serif; font-weight: 700;">👋 Hi, I'm Khush Karamchandani</h1>
 
