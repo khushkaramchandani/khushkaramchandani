@@ -39,9 +39,4 @@ I'm currently pursuing my Computer Science major at Pranveer Singh Institute of 
 
 ---
 
-### 📊 GitHub Stats
-![Khush's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushkaramchandani&show_icons=true&theme=radical)
-
----
-
 *Thanks for visiting my profile! Feel free to connect with me.* 😊
