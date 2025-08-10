@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Khush Karamchandani
+![Building and Learning](https://camo.githubusercontent.com/6e0ead44cc9559e757d0e2d1af4f55cc68ee69bb953887010cdeb1dada787fc0/68747470733a2f2f757365722d67656e2d6d656469612d6173736574732e73332e616d617a6f6e6177732e636f6d2f677074346f5f696d616765732f36363739353636342d336366392d343939662d613139652d6436326361363931303333372e706e67)
 
-<div align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/66795664-3cf9-499f-a19e-d62ca6910337.png" alt="minimalist horizontal rectangle" />
-</div>
+# 👋 Hi, I'm Khush Karamchandani
 
 ### 🎓 CS Major @ PSIT Kanpur
 I'm currently pursuing my Computer Science major at Pranveer Singh Institute of Technology (PSIT), Kanpur.
